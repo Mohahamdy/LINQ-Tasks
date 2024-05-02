@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Tasks/1.0.0": {
+        "dependencies": {
+          "assist": "1.0.0"
+        },
+        "runtime": {
+          "Tasks.dll": {}
+        }
+      },
+      "assist/1.0.0": {
+        "runtime": {
+          "assist.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Tasks/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "assist/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,11 @@
+D:\Technical Materials\LINQ\Tasks\Day02\assist\bin\Debug\net8.0\assist.deps.json
+D:\Technical Materials\LINQ\Tasks\Day02\assist\bin\Debug\net8.0\assist.dll
+D:\Technical Materials\LINQ\Tasks\Day02\assist\bin\Debug\net8.0\assist.pdb
+D:\Technical Materials\LINQ\Tasks\Day02\assist\obj\Debug\net8.0\assist.GeneratedMSBuildEditorConfig.editorconfig
+D:\Technical Materials\LINQ\Tasks\Day02\assist\obj\Debug\net8.0\assist.AssemblyInfoInputs.cache
+D:\Technical Materials\LINQ\Tasks\Day02\assist\obj\Debug\net8.0\assist.AssemblyInfo.cs
+D:\Technical Materials\LINQ\Tasks\Day02\assist\obj\Debug\net8.0\assist.csproj.CoreCompileInputs.cache
+D:\Technical Materials\LINQ\Tasks\Day02\assist\obj\Debug\net8.0\assist.dll
+D:\Technical Materials\LINQ\Tasks\Day02\assist\obj\Debug\net8.0\refint\assist.dll
+D:\Technical Materials\LINQ\Tasks\Day02\assist\obj\Debug\net8.0\assist.pdb
+D:\Technical Materials\LINQ\Tasks\Day02\assist\obj\Debug\net8.0\ref\assist.dll
